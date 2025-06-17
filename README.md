@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm [당신의 이름]</h1>
+<h1 align="center">I'm 이도윤</h1>
 <p align="center">
-  💻 Finance x Computer Science | 🛡️ 정보보안 지향 개발자<br>
-  SSAFY 10기 | Vue / SpringBoot / AI | 🎯 성장 중심의 팀플레이어
+  💻 Finance x Computer Science | 🛡️ 융합과 성장을 이루는 개발자<br>
+  SSAFY 13기 | Vue / SpringBoot / AI | 🎯 성장 중심의 팀플레이어
 </p>
 
 ---
@@ -42,8 +42,7 @@
 ---
 
 ### 📫 Contact
-- 📮 Email: [your_email@example.com]  
-- 🧭 Blog/Portfolio: [https://your-blog.vercel.app](https://your-blog.vercel.app)  
+- 📮 Email: [liftyun@gmail.com]  
 - 🧾 이력서 요약 PDF: [resume.pdf](./resume.pdf) (선택)  
 
 ---

@@ -34,7 +34,7 @@
 ### 💼 Projects
 | Project | Tech Stack | Role / Summary |
 |--------|------------|----------------|
-| 🏠 **Zippt**<br>(지도 기반 부동산 플랫폼) | Vue3, Spring Boot, KakaoMap, OpenAI API | 팀장<br>지도UI, 인증, AI 리뷰 요약, JWT 보안 구현 |
+| 🏠 **Zippt.git**<br>(지도 기반 부동산 플랫폼) | Vue3, Spring Boot, KakaoMap, OpenAI API | 팀장<br>지도UI, 인증, AI 리뷰 요약, JWT 보안 구현 |
 | 🔐 **JWT 기반 인증 서버 개발** | Spring Security, MyBatis, Redis | 인증/인가 및 Access-Token 갱신 흐름 구현 |
 | 📊 **AI 요약 & 유사도 추천 시스템** | OpenAI, Redis VectorStore | AI API 연동 및 벡터 임베딩 구조 설계 |
 
